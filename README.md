@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauryavinay1407&show_icons=true&locale=en&layout=compact" alt="mauryavinay1407" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauryavinay1407&" alt="mauryavinay1407" /></p>
+
+[![An image of @mauryavinay1407's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mauryavinay1407)](https://holopin.io/@mauryavinay1407)
