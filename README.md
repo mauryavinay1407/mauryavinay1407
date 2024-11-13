@@ -23,27 +23,10 @@ A passionate full stack developer with expertise in both frontend and backend te
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryavinay1407&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <div style="display: inline-block; border-radius: 8px; border: 4px solid transparent; padding: 4px; animation: glowing-border 2s infinite;">
         <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
-      </div>
     </td>
   </tr>
 </table>
-
-<style>
-  @keyframes glowing-border {
-    0% {
-      box-shadow: 0 0 8px cyan, 0 0 5px cyan; /* Very thin glow */
-    }
-    50% {
-      box-shadow: 0 0 20px cyan, 0 0 8px cyan; /* Slightly more expansion */
-    }
-    100% {
-      box-shadow: 0 0 3px cyan, 0 0 5px cyan; /* Returns to the thin glow */
-    }
-  }
-</style>
-
 
 ## 🏆 Hacktoberfest Holopin badges
 [![An image of @mauryavinay1407's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mauryavinay1407)](https://holopin.io/@mauryavinay1407)
