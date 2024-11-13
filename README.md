@@ -15,18 +15,9 @@ A passionate full stack developer with expertise in both frontend and backend te
 [![](https://visitcount.itsvg.in/api?id=mauryavinay1407&icon=0&color=0)](https://visitcount.itsvg.in)
 # 📊 GitHub Stats:
 
-<table  style="border: none;">
-  <tr >
-    <td >
-      <img src="https://github-readme-stats.vercel.app/api?username=mauryavinay1407&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryavinay1407&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryavinay1407&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-        <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=mauryavinay1407&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mauryavinay1407&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauryavinay1407&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Hacktoberfest Holopin badges
 [![An image of @mauryavinay1407's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mauryavinay1407)](https://holopin.io/@mauryavinay1407)
