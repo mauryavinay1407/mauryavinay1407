@@ -1,8 +1,6 @@
 # Hi 👋, I'm Vinay Maurya
 A passionate full stack developer with expertise in both frontend and backend technologies. I specialize in JavaScript and TypeScript for dynamic web applications, and excel in React.js, Next.js, and Tailwind CSS for building responsive, interactive UIs. As a problem solver, I have a strong foundation in computer science, data structures, algorithms,oops and system programming with C/C++. On the backend, I focus on Node.js, Express.js, and databases like MongoDB and PostgreSQL. I also use Docker for containerization, ensuring scalable solutions. Driven by curiosity and continuous learning, I aim to deliver efficient and scalable software solutions.
 
-- 📫 How to reach me **vinaymaurya1407@gmail.com**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinaym7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26595876/vinay-maurya) 
 
